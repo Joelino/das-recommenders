@@ -1,22 +1,22 @@
-# 01DAS Recommender systems referemce implementations
+# 01DAS Recommender systems reference implementations
 
 This repo contains few easy-to-implement recommender systems and their benchmark
 on small movielens dataset.
 
 # List of recommenders
 
-## Basic baselines
+### Basic baselines
 1. Constant
 2. Dataset mean
 3. Item mean
 4. User mean
 
-## KNN recommenders
+### KNN recommenders
 1. Basic KNN recommender
 2. Normelized KNN recommender
 3. Normalized & Weighted KNN recommender
 
-# Others
+### Others
 1. iterative SVD recommender
 2. EASE recommedner
 
