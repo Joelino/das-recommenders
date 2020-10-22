@@ -13,7 +13,7 @@ from tqdm import tqdm
 class EASE:
     def fit(self, ratings_matrix, lambda_: float = 0.5):
         X = ratings_matrix.copy()
-        # matrix multiplications need matrix with NaNs
+        # matrix multiplications need matrix without NaNs
         X = np.nan_to_num(X, 0)
         self.max = np.abs(np.nanmax(X))
         X = X / self.max  # normalize by max value
