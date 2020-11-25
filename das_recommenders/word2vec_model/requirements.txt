@@ -1,0 +1,7 @@
+sklearn
+matplotlib
+plotly
+gensim
+pandas
+jupyter
+wordcloud
