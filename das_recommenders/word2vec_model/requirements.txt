@@ -4,4 +4,4 @@ plotly
 gensim
 pandas
 jupyter
-wordcloud
+pyldavis
