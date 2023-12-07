@@ -28,8 +28,8 @@ on small movielens dataset.
 # How to run it yourself
 
 1. Create virtualenv from `requirements.txt`.
-2. Download [Movielens 100k dataset](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
+2. Download [Movielens 100k dataset](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
    and unpack it to folder `ml-latest-small`.
-3. (Optional): Download [Movielens full dataset](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
+3. (Optional): Download [Movielens full dataset](https://files.grouplens.org/datasets/movielens/ml-latest.zip)
    and unpack it to folder `ml-latest-full`.
 4. Run `Benchmarks.ipynb` notebook.
